@@ -47,13 +47,13 @@ namespace SIMPLEAPI_Demo.Clases
         {
             Contribuyente empresa = new Contribuyente()
             {
-                RazonSocial = "RAZÓN SOCIAL",
+                RazonSocial = "KIS SPA",
                 Giro = "GIRO GLOSA DESCRIPTIVA",
-                Direccion = "DIRECCION 787",
-                Comuna = "COMUNA",
+                Direccion = "HUERFANOS 1685 DP 206 206",
+                Comuna = "Santiago",
                 FechaResolucion = new DateTime(2016, 4, 28),
                 NumeroResolucion = 0,
-                RutEmpresa = "77777777-7",
+                RutEmpresa = "77240438-7",
                 CodigosActividades = new List<ActividadEconomica>()
                 {
                     new ActividadEconomica() { Codigo =  463020},

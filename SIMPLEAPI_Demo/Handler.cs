@@ -72,7 +72,7 @@ namespace SIMPLEAPI_Demo
             }
             //DOCUMENTO - ENCABEZADO - RECEPTOR - CAMPOS OBLIGATORIOS
 
-            dte.Documento.Encabezado.Receptor.Rut = "66666666-6";
+            dte.Documento.Encabezado.Receptor.Rut = "77240438-7";
             dte.Documento.Encabezado.Receptor.RazonSocial = "Razon Social de Cliente";
             dte.Documento.Encabezado.Receptor.Direccion = "Dirección de cliente";
             dte.Documento.Encabezado.Receptor.Comuna = "Comuna de cliente";

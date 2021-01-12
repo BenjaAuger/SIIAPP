@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="SIMPLE_API">
-      <HintPath>..\..\..\..\Downloads\SIMPLE_API.dll</HintPath>
+      <HintPath>..\..\..\..\..\Downloads\SIMPLE_API.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
